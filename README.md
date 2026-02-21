@@ -1,2 +1,2 @@
 ## Documentation
-[Open Documentation](./Email%20Triage%20Assistant.pdf)
+[Open Documentation](email-triage-assistant.pdf)
